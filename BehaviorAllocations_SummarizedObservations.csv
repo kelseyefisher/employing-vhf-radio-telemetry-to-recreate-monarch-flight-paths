@@ -1,0 +1,94 @@
+Year,Site,ID,Date,DaysCaptive,MF,Weight,TagUntag,Temp,WindSpeed,WindDirection,CloudCover,ReleaseSubstraight,Total.seconds,secPlant,secFly,secRest,secFeed,perc.plant,perc.fly,perc.rest,perc.feed
+2016,Boone,3,7/8/2016,na,F,na,tagged,na,na,na,na,na,1201.09,1199.88891,1.20109,1199.88891,0,0.999,0.001,1,0
+2016,Boone,4,7/8/2016,na,F,na,untagged,na,na,na,na,na,1201.46,1118.55926,82.90074,517.82926,600.73,0.931,0.069,0.462943072,0.537056928
+2016,Boone,5,7/8/2016,na,F,na,untagged,na,na,na,na,na,1200.97,1200.97,0,1200.97,0,1,0,1,0
+2016,Boone,4403,6/17/2016,na,F,na,untagged,na,na,na,na,na,1202.49,961.992,240.498,188.79093,773.20107,0.8,0.2,0.19625,0.80375
+2016,Boone,4404,6/17/2016,na,F,na,untagged,na,na,na,na,na,1200.42,1168.00866,32.41134,9.60336,1158.4053,0.973,0.027,0.008221994,0.991778006
+2016,Boone,4409,6/17/2016,na,F,na,tagged,na,na,na,na,na,1204.16,1106.62304,97.53696,350.41056,756.21248,0.919,0.081,0.316648531,0.683351469
+2016,Boone,4440,6/17/2016,na,M,na,tagged,na,na,na,na,na,1200,1195.2,4.8,1195.2,0,0.996,0.004,1,0
+2016,Boone,4442,6/17/2016,na,M,na,untagged,na,na,na,na,na,1178.5,1137.2525,41.2475,2.357,1134.8955,0.965,0.035,0.002072539,0.997927461
+2016,Boone,4450,6/17/2016,na,F,na,untagged,na,na,na,na,na,1207.58,1171.3526,36.2274,30.1895,1141.1631,0.97,0.03,0.025773196,0.974226804
+2016,Boone,4460,6/24/2016,na,F,na,tagged,na,na,na,na,na,1188.96,1188.96,0,1188.96,0,1,0,1,0
+2016,Boone,4462,6/24/2016,na,F,na,tagged,na,na,na,na,na,1089.61,345.40637,744.20363,14.16493,331.24144,0.317,0.683,0.041009464,0.958990536
+2016,Boone,4467,6/24/2016,na,F,na,tagged,na,na,na,na,na,1201.03,1199.82897,1.20103,3.60309,1196.22588,0.999,0.001,0.003003003,0.996996997
+2016,Boone,4468,6/24/2016,na,F,na,untagged,na,na,na,na,na,1201.1,1199.8989,1.2011,3.6033,1196.2956,0.999,0.001,0.003003003,0.996996997
+2016,Boone,4471,6/24/2016,na,F,na,untagged,na,na,na,na,na,1208.85,975.54195,233.30805,488.3754,487.16655,0.807,0.193,0.500619579,0.499380421
+2016,Boone,4472,6/24/2016,na,F,na,untagged,na,na,na,na,na,1174.51,64.59805,1109.91195,36.40981,28.18824,0.055,0.945,0.563636364,0.436363636
+2016,Boone,4472-2,6/24/2016,na,F,na,untagged,na,na,na,na,na,1174.51,49.32942,1125.18058,3.52353,45.80589,0.042,0.958,0.071428571,0.928571429
+2017,Ames,!1,6/23/2017,na,M,na,untagged,71,8.7,Unknown,mostly clear,na,177.39,119.064168,58.325832,44.436195,74.627973,0.6712,0.3288,0.373212157,0.626787843
+2017,Boone,!100,7/18/2017,2,F,0.64,untagged,80.3,1.7,North,cloudy,Wild Burgamont,1240.23,1195.705743,44.524257,1195.705743,0,0.9641,0.0359,1,0
+2017,Ames,!11,6/23/2017,na,M,na,tagged,74.3,7.5,South/South East,mostly clear,na,89.57,8.894301,80.675699,8.894301,0,0.0993,0.9007,1,0
+2017,Boone,!12,6/27/2017,4,F,0.4,untagged,80,8.5,North/North West,mostly clear,Butterfly Milk Weed Flower,1193.01,1193.01,0,252.679518,940.330482,1,0,0.2118,0.7882
+2017,Boone,!14,6/27/2017,4,F,0.42,tagged,71.2,7,North,mostly clear,Butterfly Milk Weed Flower/Common Milk Weed Flower,1387.65,1383.903345,3.746655,1372.247085,11.65626,0.9973,0.0027,0.991577259,0.008422741
+2017,Boone,!2,6/21/2017,1,M,0.21,untagged,na,3.8,West,mostly cloudy,Common Milk Weed Flower,1203.71,1203.71,0,629.901443,573.808557,1,0,0.5233,0.4767
+2017,Boone,!3,6/21/2017,1,F,na,tagged,70,11.8,West,mostly cloudy,Common Milk Weed Flower,389.9,261.31098,128.58902,35.05201,226.25897,0.6702,0.3298,0.134139063,0.865860937
+2017,Boone,!42,6/27/2017,1,M,0.48,untagged,78,6,North/North West,mostly clear,Butterfly Milk Weed Flower,1199.31,1180.840626,18.469374,1180.840626,0,0.9846,0.0154,1,0
+2017,Boone,!43,6/30/2017,3,M,0.5,untagged,80,8.5,South,mostly cloudy,Common Milk Weed Flower,1209.3,1137.58851,71.71149,547.45011,590.1384,0.9407,0.0593,0.481237376,0.518762624
+2017,Boone,!46,6/30/2017,3,F,0.48,tagged,75.5,5.5,South/South East,mostly cloudy,Common Milk Weed Flower,1260.08,1239.162672,20.917328,855.846336,383.316336,0.9834,0.0166,0.69066504,0.30933496
+2017,Boone,!5,6/27/2017,5,M,0.45,tagged,70,5,North East,mostly clear,Common Milk Weed Flower,1795.77,1774.041183,21.728817,1209.451095,564.590088,0.9879,0.0121,0.681749165,0.318250835
+2017,Boone,!50,6/30/2017,3,M,0.43,untagged,77.8,7.5,South,mostly cloudy,Common Milk Weed Flower,1211.03,1180.996456,30.033544,728.071236,452.92522,0.9752,0.0248,0.616488925,0.383511075
+2017,Boone,!51,6/30/2017,3,M,0.33,tagged,75,5,South,mostly cloudy,Common Milk Weed Flower,545.35,371.38335,173.96665,351.805285,19.578065,0.681,0.319,0.947283407,0.052716593
+2017,Boone,!52,6/30/2017,3,M,0.31,untagged,77.3,7,South,mostly cloudy,Common Milk Weed Flower,1221.02,1206.123556,14.896444,956.05866,250.064896,0.9878,0.0122,0.792670581,0.207329419
+2017,Boone,!53,6/30/2017,3,M,0.43,tagged,78,6.5,South,mostly cloudy,Common Milk Weed Flower,1259.96,1206.033712,53.926288,755.094028,450.939684,0.9572,0.0428,0.626096949,0.373903051
+2017,Boone,!54,6/30/2017,3,M,0.4,untagged,78.5,10,South,mostly cloudy,Common Milk Weed Flower,1227.68,1024.744496,202.935504,99.44208,925.302416,0.8347,0.1653,0.097040853,0.902959147
+2017,Boone,!55,6/30/2017,3,M,0.45,tagged,71,2.4,NA (Calm),mostly cloudy,Common Milk Weed Flower,1146.68,1143.23996,3.44004,1128.562456,14.677504,0.997,0.003,0.987161484,0.012838516
+2017,Boone,!57,6/30/2017,3,M,0.55,untagged,74,5.5,South,mostly cloudy,Common Milk Weed Flower,1237.4,1130.61238,106.78762,5.19708,1125.4153,0.9137,0.0863,0.004596695,0.995403305
+2017,Boone,!6,6/27/2017,5,F,0.51,tagged,77.3,9,West/North West,mostly clear,Common Milk Weed Flower/Yellow Daisy Flower/Thistle Flower,1795.84,1795.84,0,1331.435776,464.404224,1,0,0.7414,0.2586
+2017,Boone,!66,7/3/2017,3,M,0.39,tagged,87,0,NA (Calm),clear,Common Milk Weed Flower,135.65,22.911285,112.738715,22.911285,0,0.1689,0.8311,1,0
+2017,Boone,!71,7/3/2017,3,M,0.51,tagged,87,0,NA (Calm),clear,Common Milk Weed Flower,819.01,699.43454,119.57546,28.255845,671.178695,0.854,0.146,0.040398126,0.959601874
+2017,Ames,!86,7/14/2017,1,M,0.28,tagged,78,4.5,South,clear,Common Milk Weed Flower,143.17,69.881277,73.288723,29.464386,40.416891,0.4881,0.5119,0.421634911,0.578365089
+2017,Ames,!88,7/14/2017,1,M,0.29,untagged,75,2,West,clear,Common Milk Weed Flower,1263.59,1253.354921,10.235079,1.769026,1251.585895,0.9919,0.0081,0.001411433,0.998588567
+2017,Ames,!91,7/14/2017,1,M,0.38,tagged,79.5,5.5,South,clear,Common Milk Weed Flower,1234.13,1046.665653,187.464347,587.692706,458.972947,0.8481,0.1519,0.56149039,0.43850961
+2017,Ames,!93,7/14/2017,1,M,0.31,tagged,8.25,6,South,clear,Common Milk Weed Flower,58.96,3.909048,55.050952,3.909048,0,0.0663,0.9337,1,0
+2017,Boone,!A,6/22/2017,2,M,0.27,tagged,86,7.5,North/North West,mostly cloudy,na,1205.46,1205.46,0,870.462666,334.997334,1,0,0.7221,0.2779
+2017,Boone,!B,6/21/2017,na,M,na,untagged,65,8,Nort West,cloudy,na,1197.82,1197.82,0,217.40433,980.41567,1,0,0.1815,0.8185
+2017,Ames,!C,6/23/2017,na,M,na,tagged,74,8.9,South/South East,mostly cloudy,na,1197.25,1184.199975,13.050025,780.84645,403.353525,0.9891,0.0109,0.659387322,0.340612678
+2018,Rochester,1,7/1/2018,1,F,na,untagged,72,2,NNW,mostly clear,na,90.4,71.600416,18.799584,na,na,0.79204,0.20796,na,na
+2018,Rochester,2,7/1/2018,1,M,na,tagged,72,2,NNW,mostly clear,na,1205.8,1165.10425,40.69575,na,na,0.96625,0.03375,na,na
+2018,Rochester,3,7/2/2018,1,F,na,tagged,86,6,SSW,mostly clear,na,390.1,98.898152,291.201848,na,na,0.25352,0.74648,na,na
+2018,Rochester,4,7/2/2018,1,F,na,tagged,86,6,SSW,mostly clear,na,476.6,400.301106,76.298894,na,na,0.83991,0.16009,na,na
+2018,Rochester,5,7/3/2018,1,F,na,untagged,76,2,ESE,cloudy,na,301.3,269.401369,31.898631,na,na,0.89413,0.10587,na,na
+2018,Rochester,6,7/3/2018,1,F,na,untagged,76,2,ESE,cloudy,na,133.3,1.9995,131.3005,na,na,0.015,0.985,na,na
+2018,Rochester,7,7/3/2018,1,F,na,untagged,76,2,ESE,cloudy,na,669.5,619.803015,49.696985,na,na,0.92577,0.07423,na,na
+2018,Rochester,8,7/4/2018,1,M,na,tagged,82,2,N-E,cloudy,na,1200.7,732.595098,468.104902,na,na,0.61014,0.38986,na,na
+2018,Rochester,9,7/4/2018,1,F,na,tagged,82,2,N-E,cloudy,na,1200,1200,0,na,na,1,0,na,na
+2018,Rochester,10,7/5/2018,1,F,na,untagged,78,2,WNW,mostly clear,na,115.1,76.999598,38.100402,na,na,0.66898,0.33102,na,na
+2018,Rochester,11,7/5/2018,1,F,na,untagged,78,2,WNW,mostly clear,na,589,472.40156,116.59844,na,na,0.80204,0.19796,na,na
+2018,Rochester,12,7/6/2018,1,F,na,untagged,72,0,N-E,clear,na,56.3,0.800023,55.499977,na,na,0.01421,0.98579,na,na
+2018,Rochester,13,7/16/2018,1,M,na,tagged,72,0,N-E,clear,na,64,36.30016,27.69984,na,na,0.56719,0.43281,na,na
+2018,Rochester,14,7/6/2018,1,M,na,tagged,72,0,N-E,clear,na,1200,1200,0,na,na,1,0,na,na
+2018,Rochester,15,7/8/2018,1,M,na,untagged,85,5,W,clear,na,41,3.69984,37.30016,na,na,0.09024,0.90976,na,na
+2018,Rochester,16,7/8/2018,1,M,na,tagged,85,5,W,clear,na,202,176.60052,25.39948,na,na,0.87426,0.12574,na,na
+2018,Rochester,17,7/10/2018,1,M,na,untagged,85,0,E,clear,na,648.9,502.300512,146.599488,na,na,0.77408,0.22592,na,na
+2018,Rochester,18,7/10/2018,1,F,na,tagged,85,0,E,clear,na,30.8,3.800104,26.999896,na,na,0.12338,0.87662,na,na
+2018,Rochester,19,7/10/2018,1,F,na,untagged,85,0,E,clear,na,1160.9,815.694776,345.205224,na,na,0.70264,0.29736,na,na
+2018,Rochester,20,7/10/2018,1,F,na,tagged,85,0,E,clear,na,26.9,4.400033,22.499967,na,na,0.16357,0.83643,na,na
+2018,Rochester,21,7/6/2018,1,F,na,untagged,72,0,NE,clear,na,51.2,0.200192,50.999808,na,na,0.00391,0.99609,na,na
+2018,Rochester,22,7/11/2018,1,M,na,untagged,89,6,ENE,clear,na,851.1,502.200066,348.899934,na,na,0.59006,0.40994,na,na
+2018,Rochester,23,7/12/2018,1,M,na,untagged,87,6,WSW,cloudy,na,56.4,46.20006,10.19994,na,na,0.81915,0.18085,na,na
+2018,Rochester,24,7/12/2018,1,F,na,untagged,87,6,WSW,cloudy,na,54.9,0.199836,54.700164,na,na,0.00364,0.99636,na,na
+2018,Rochester,25,7/12/2018,1,F,na,untagged,87,6,WSW,cloudy,na,56.3,1.600046,54.699954,na,na,0.02842,0.97158,na,na
+2018,Rochester,26,7/14/2018,1,M,na,untagged,83,2,S-W,mostly clear,na,40.1,0.799995,39.300005,na,na,0.01995,0.98005,na,na
+2018,Rochester,27,7/14/2018,1,M,na,tagged,83,2,SW,mostly clear,na,246.5,219.09906,27.40094,na,na,0.88884,0.11116,na,na
+2018,Rochester,28,7/15/2018,1,M,na,tagged,87,0,W,mostly clear,na,138.3,101.599329,36.700671,na,na,0.73463,0.26537,na,na
+2018,Rochester,29,7/17/2018,1,F,na,tagged,87,0,W,mostly clear,na,120.1,19.30007,100.79993,na,na,0.1607,0.8393,na,na
+2018,Rochester,30,7/15/2018,1,F,na,untagged,87,0,W,mostly clear,na,157.6,116.800512,40.799488,na,na,0.74112,0.25888,na,na
+2018,Rochester,31,7/17/2018,1,F,na,tagged,75,2,SE,clear,na,1183.5,1082.795985,100.704015,na,na,0.91491,0.08509,na,na
+2018,Rochester,32,7/17/2018,1,M,na,tagged,75,2,S-E,clear,na,81.2,42.19964,39.00036,na,na,0.5197,0.4803,na,na
+2018,Rochester,33,7/17/2018,1,F,na,tagged,75,2,SE,clear,na,46.6,24.49995,22.10005,na,na,0.52575,0.47425,na,na
+2018,Rochester,34,7/18/2018,1,M,na,untagged,83,1,SSW,mostly clear,na,75.5,35.799835,39.700165,na,na,0.47417,0.52583,na,na
+2018,Rochester,35,7/18/2018,1,M,na,untagged,83,1,SSW,mostly clear,na,501.7,344.201319,157.498681,na,na,0.68607,0.31393,na,na
+2018,Rochester,36,7/24/2018,1,M,na,tagged,75,2,ENE,clear,na,352.1,329.100828,22.999172,na,na,0.93468,0.06532,na,na
+2018,Rochester,37,7/24/2018,1,M,na,untagged,75,2,ENE,clear,na,1040,943.6024,96.3976,na,na,0.90731,0.09269,na,na
+2018,Rochester,38,7/24/2018,1,M,na,tagged,75,2,ENE,clear,na,564.6,320.09997,244.50003,na,na,0.56695,0.43305,na,na
+2018,Rochester,39,7/24/2018,1,M,na,tagged,75,2,ENE,clear,na,1200.3,1169.404278,30.895722,na,na,0.97426,0.02574,na,na
+2018,Rochester,40,7/30/2018,1,F,na,untagged,84,2,SSE,mostly clear,na,17.4,9.800028,7.599972,na,na,0.56322,0.43678,na,na
+2018,Rochester,41,7/30/2018,1,M,na,untagged,84,2,SSE,mostly clear,na,1200.1,1182.398525,17.701475,na,na,0.98525,0.01475,na,na
+2018,Rochester,42,7/30/2018,1,F,na,untagged,84,2,SSE,mostly clear,na,82.6,41.3,41.3,na,na,0.5,0.5,na,na
+2018,Rochester,43,7/30/2018,1,M,na,untagged,84,2,SSE,mostly clear,na,55.9,0.599807,55.300193,na,na,0.01073,0.98927,na,na
+2018,Rochester,44,7/1/2018,1,F,na,untagged,71,4,W,cloudy,na,424.3,414.698091,9.601909,na,na,0.97737,0.02263,na,na
+2018,Rochester,45,7/7/2018,1,F,na,tagged,76,0,E,cloudy,na,1199.9,1170.802425,29.097575,na,na,0.97575,0.02425,na,na
+2018,Rochester,46,7/8/2018,1,M,na,tagged,81,4,S,clear,na,1500,1498.995,1.005,na,na,0.99933,0.00067,na,na
+2018,Rochester,47,7/12/2018,1,F,na,tagged,87,6,WSW,cloudy,na,71.1,2.100294,68.999706,na,na,0.02954,0.97046,na,na
+2018,Rochester,48,9/15/2018,1,M,na,tagged,92,4,SSW,mostly clear,na,1200.1,1196.103667,3.996333,na,na,0.99667,0.00333,na,na
+2018,Rochester,49,5/1/2018,1,F,na,untagged,71,4,W,cloudy,na,297.6,230.300736,67.299264,na,na,0.77386,0.22614,na,na
