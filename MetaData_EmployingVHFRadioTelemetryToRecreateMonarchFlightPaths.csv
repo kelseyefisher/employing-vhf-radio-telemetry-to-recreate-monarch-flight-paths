@@ -1,0 +1,62 @@
+Data File,Column Name,Description
+BehaviorAllocations_RawObservations.csv,Year,"Year when observations occurred. Could be 2016, 2017, or 2018."
+BehaviorAllocations_RawObservations.csv,Individual,"Identifer for each individual butterfly observed. Numbers/labels have no significance, just meant to ID individuals."
+BehaviorAllocations_RawObservations.csv,Sex,Butterfly observed was male (M) or female (F)
+BehaviorAllocations_RawObservations.csv,Tagged,Butterfly observed was untagged or sham-tagged with a 300mg watch battery sham transmitter.
+BehaviorAllocations_RawObservations.csv,Lap,"Sequential order or behavior. Each line for an individual was the amount of continuous time they were observed engaging in a behavior. When then behavior stopped and a new behavior began, a new lap began. Listed as minutes.seconds.hundreth of second. Later columns convert this to total seconds."
+BehaviorAllocations_RawObservations.csv,Behavior,"Description of monarch behavior. Many could be listed, but they were classified as ""on-plant"" or ""in-air"" for analysis"
+BehaviorAllocations_RawObservations.csv,Minutes,Raw whole number minutes engaged in behavior for one lap
+BehaviorAllocations_RawObservations.csv,minutes.to.seconds,Convert minutes to second (multiplied by 60)
+BehaviorAllocations_RawObservations.csv,Seconds,Raw whole number seconds engaged in behavior for one lap
+BehaviorAllocations_RawObservations.csv,hundreth.of.second,Raw whole number hundreth of a second engaged in behavior for one lap
+BehaviorAllocations_RawObservations.csv,total.seconds,Total length of lap displayed in total seconds
+BehaviorAllocations_SummarizedObservations.csv,Year,"Year when observations occurred. Could be 2016, 2017, or 2018."
+BehaviorAllocations_SummarizedObservations.csv,Site,"Field site location where observations occurred. Could be Boone, IA, Rochester, MN, or Ames, IA."
+BehaviorAllocations_SummarizedObservations.csv,ID,"Identifer for each individual butterfly observed. Numbers/labels have no significance, just meant to ID individuals."
+BehaviorAllocations_SummarizedObservations.csv,Date,Date observations occurred (month/day/year)
+BehaviorAllocations_SummarizedObservations.csv,DaysCaptive,Butterflies were captured and held in captivity for 0-5 days. DaysCaptive is how long a butterfly was held before it was observed
+BehaviorAllocations_SummarizedObservations.csv,MF,Butterfly observed was male (M) or female (F)
+BehaviorAllocations_SummarizedObservations.csv,Weight,Weight of butterfly observed in grams
+BehaviorAllocations_SummarizedObservations.csv,TagUntag,Butterfly observed was untagged or sham-tagged (tagged) with a 300mg watch battery sham transmitter.
+BehaviorAllocations_SummarizedObservations.csv,Temp,Temperature right before monarch was released for observation collected with an anomometer. 
+BehaviorAllocations_SummarizedObservations.csv,WindSpeed,Wind speed right before monarch was released for observation collected with an anomometer. 
+BehaviorAllocations_SummarizedObservations.csv,WindDirection,Wind direction right before monarch was released for observation collected with an anomometer. 
+BehaviorAllocations_SummarizedObservations.csv,CloudCover,Cloud cover right before monarch was released for observation collected with an anomometer. 
+BehaviorAllocations_SummarizedObservations.csv,ReleaseSubstraight,Plant that the monarch was released on for observation
+BehaviorAllocations_SummarizedObservations.csv,Total.seconds,Total time butterfly was observed in seconds (sum of total seconds for each individual in BehaviorAllocations_RawObservations.csv)
+BehaviorAllocations_SummarizedObservations.csv,secPlant,Total seconds classified as on-plant for each individual
+BehaviorAllocations_SummarizedObservations.csv,secFly,Total seconds classified as in-air for each individual
+BehaviorAllocations_SummarizedObservations.csv,secRest,Total seconds classified as rest for each individual
+BehaviorAllocations_SummarizedObservations.csv,secFeed,Total seconds classified as feed for each individual
+BehaviorAllocations_SummarizedObservations.csv,perc.plant,Proportion of total time observed on-plant (secPlant/Total.Seconds)
+BehaviorAllocations_SummarizedObservations.csv,perc.fly,Proportion of total time observed in-air (secFly/Total.Seconds)
+BehaviorAllocations_SummarizedObservations.csv,perc.rest,Proportion of total time on-plant observed resting (secRest/secPlant)
+BehaviorAllocations_SummarizedObservations.csv,perc.feed,Proportion of total time on-plant observed feeding (secFeed/secPlant)
+RadioTagged_RawBearings.csv,Operator,Person who collected bearing information
+RadioTagged_RawBearings.csv,EstimationOrder,"Order of data collection (1=first location, 2=second location….)"
+RadioTagged_RawBearings.csv,ID,Butterfly ID for lab purposes (means nothing specific)
+RadioTagged_RawBearings.csv,Northing,UTM northing where the operator was stationed to collect bearing information
+RadioTagged_RawBearings.csv,Easting,UTM easting where the operator was stationed to collect bearing information
+RadioTagged_RawBearings.csv,Bearing,Estimated bearing in the direction of the strongest signal
+RadioTagged_RawBearings.csv,Monarch,Monarch identifier - correspondes to supplemental figure 1 in manuscript
+RadioTagged_SummarizedEstimatedLocations.csv,ID,Butterfly ID for lab purposes (means nothing specific)
+RadioTagged_SummarizedEstimatedLocations.csv,Monarch,Monarch identifier - correspondes to supplemental figure 1 in manuscript
+RadioTagged_SummarizedEstimatedLocations.csv,Order,"Order of data collection (1=first location, 2=second location….)"
+RadioTagged_SummarizedEstimatedLocations.csv,cov.xx,Estimation of error ellipse covariate x
+RadioTagged_SummarizedEstimatedLocations.csv,cov.yy,Estimation of error ellipse covariate y
+RadioTagged_SummarizedEstimatedLocations.csv,cov.xy,Estimation of error ellipse covariate x and y (tilt)
+RadioTagged_SummarizedEstimatedLocations.csv,Area,Area of error ellipse (in meters squared)
+RadioTagged_SummarizedEstimatedLocations.csv,TimeCDT,"Estimate of time in central time - this time does not correlate to when the butterflies were observed, it is just a place holder to use in analysis and calculations. All studies were conducted on clear or mostly clear days between 1000 h and 1500 h with temperatures between 21-30 degrees C and winds were below 16 kph. Telemetry observations occurred on August 3, 4, 16, 17, 19, 2016."
+RadioTagged_SummarizedEstimatedLocations.csv,TimeGMT,"Estimate of time in greenwich mean time - this time does not correlate to when the butterflies were observed, it is just a place holder to use in analysis and calculations. All studies were conducted on clear or mostly clear days between 1000 h and 1500 h with temperatures between 21-30 degrees C and winds were below 16 kph. Telemetry observations occurred on August 3, 4, 16, 17, 19, 2016."
+RadioTagged_SummarizedEstimatedLocations.csv,Year,Year of observations (all were 2016)
+RadioTagged_SummarizedEstimatedLocations.csv,Date,"Place holder for date of observations to use in analyses. Telemetry observations occurred on August 3, 4, 16, 17, 19, 2016."
+RadioTagged_SummarizedEstimatedLocations.csv,individual.local.identifier,Monarch identifier - correspondes to supplemental figure 1 in manuscript
+RadioTagged_SummarizedEstimatedLocations.csv,location.long,Estimated location of butterfly - longitude (NAD83)
+RadioTagged_SummarizedEstimatedLocations.csv,location.lat,Estimated location of butterfly - latitude (NAD83)
+RadioTagged_SummarizedEstimatedLocations.csv,timestamp,appropriate format of placeholder date and time to use in analyses
+RadioTagged_SummarizedEstimatedLocations.csv,argos.semi.major,converted cov.xx to be used in ctmm in R
+RadioTagged_SummarizedEstimatedLocations.csv,argos.semi.minor,converted cov.yy to be used in ctmm in R
+RadioTagged_SummarizedEstimatedLocations.csv,argos.orientation,converted cov.xy to be used in ctmm in R
+RadioTagged_SummarizedEstimatedLocations.csv,turnangle,Turn angle between 3 sequential estimated locations calculated in GME
+RadioTagged_SummarizedEstimatedLocations.csv,steplength,Distance between 2 sequential estimated locations calculated in GME
+RadioTagged_SummarizedEstimatedLocations.csv,bearing,Direction of movement calculated in GME
